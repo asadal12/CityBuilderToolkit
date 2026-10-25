@@ -1,0 +1,40 @@
+﻿# Auto detect text files and perform LF normalization
+* text=auto
+
+# Unity YAML text formats
+*.cs text diff=csharp
+*.cginc text
+*.shader text
+*.mat text
+*.anim text
+*.unity text
+*.prefab text
+*.physicsMaterial text
+*.physicsMaterial2D text
+*.asset text
+*.meta text
+*.controller text
+*.json text
+*.xml text
+*.osm text
+*.md text
+
+# Binary formats
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.psd binary
+*.tga binary
+*.tif binary
+*.tiff binary
+*.gif binary
+*.bmp binary
+*.fbx binary
+*.obj binary
+*.dae binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.dll binary
+*.so binary
+*.dylib binary
